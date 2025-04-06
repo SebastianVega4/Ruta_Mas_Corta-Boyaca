@@ -29,6 +29,7 @@ El sistema permite:
 
 ### 📂 Estructura del Repositorio
 
+```
 Ruta_Mas_Corta-Boyaca/
 │
 ├── src/                     # Código fuente del proyecto
@@ -41,6 +42,7 @@ Ruta_Mas_Corta-Boyaca/
 │
 ├── README.md                # Documentación del proyecto
 └── .gitignore               # Archivos y carpetas excluidas del control de versiones
+```
 
 ### 🚀 Instrucciones de Ejecución
 
