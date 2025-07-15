@@ -48,7 +48,7 @@ Ruta_Mas_Corta-Boyaca/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/sebasvega321/Ruta_Mas_Corta-Boyaca.git
+git clone https://github.com/SebastianVega4/Ruta_Mas_Corta-Boyaca.git
 ```
 
 3. Importar el proyecto en un IDE como **IntelliJ IDEA** o **Eclipse**.
@@ -72,6 +72,11 @@ Desarrollado por **Sebastián Vega**
 
 ---
  
+## 📄 Licencia
+
+Este proyecto se encuentra bajo la Licencia GPL 3.0. Puedes usarlo, modificarlo y distribuirlo siempre que mantengas los mismos términos de licencia.
+
+
 Facultad de Ingeniería — Ingeniería de Sistemas 🧩
 **🏫 Universidad Pedagógica y Tecnológica de Colombia**  
 📍 Sogamoso, Boyacá 📍
